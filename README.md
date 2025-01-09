@@ -50,14 +50,19 @@
     <img src="./Images/github-star-text-header.svg" alt="" />
 </div>
 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=hieuhieuhieu001&row=2&column=3&theme=onedark)](https://github.com/hieuhieuhieu001/github-profile-trophy)
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=hieuhieuhieu001&row=2&column=3&theme=onedark"
+    media="(prefers-color-scheme: onedark)"
+  />
+</picture>
+
 <h3 align="left">
     
 </h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuhieuhieu001&layout=donut&theme=radical)](https://github.com/hieuhieuhieu001/github-readme-stats)
-</div>
-
-<h1 align="left">
-    
-</h1>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuhieuhieu001&layout=donut&theme=radical"
+    media="(prefers-color-scheme: radical)"
+  />
+</picture>
