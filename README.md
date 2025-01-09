@@ -50,7 +50,8 @@
     <img src="./Images/github-star-text-header.svg" alt="" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hieuhieuhieu001)](https://github.com/hieuhieuhieu001/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hieuhieuhieu001&row=2&column=3&theme=onedark)](https://github.com/hieuhieuhieu001/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuhieuhieu001&layout=donut&theme=radical)](https://github.com/hieuhieuhieu001/github-readme-stats)
 
 <h1 align="left">
     
