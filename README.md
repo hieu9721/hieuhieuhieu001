@@ -24,7 +24,8 @@
     <img src="./Images/font-end-text-header.svg" alt="" />
 </div>
 
-<div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
+<div align="center">
+    <img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
     <img width="10" />
     <img src="https://api.iconify.design/devicon/typescript.svg" alt="devicon:typescript" height="40" />
     <img width="10" />
@@ -39,10 +40,30 @@
     <img src="https://api.iconify.design/devicon/react.svg" alt="devicon:react" height="40" />
 </div>
 
+<h1 align="left">
+    
+</h1>
+
 <div align="center">
     <img src="./Images/back-end-text-header.svg" alt="" />
 </div>
 
-<div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
-    <h2?>Not thing to show! 😁😁😁</h2>
+<div align="center">
+    <h2>Not thing to show! 😁😁😁</h2>
 </div>
+
+<h1 align="left">
+    
+</h1>
+
+<div align="center">
+    <img src="./Images/github-star-text-header.svg" alt="" />
+</div>
+
+<div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=hiehieuhieu001)](https://github.com/hiehieuhieu001/github-profile-trophy)
+</div>
+
+<h1 align="left">
+    
+</h1>
