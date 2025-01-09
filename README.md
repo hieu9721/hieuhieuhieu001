@@ -1,11 +1,9 @@
 <div align="center">
     <img src="./Images/header.png" />
 </div>
-
 <h3 align="left">
     
 </h3>
-
 <div align="center">
     <a href="https://www.facebook.com/nguyen.van.trung.hieu.746368/">
     <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="30" />
@@ -15,15 +13,12 @@
     <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="30" />
     </a>
 </div>
-
 <h1 align="left">
     
 </h1>
-
 <div align="center">
     <img src="./Images/font-end-text-header.svg" alt="" />
 </div>
-
 <div align="center">
     <img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
     <img width="10" />
@@ -39,30 +34,23 @@
     <img width="10" />
     <img src="https://api.iconify.design/devicon/react.svg" alt="devicon:react" height="40" />
 </div>
-
 <h1 align="left">
     
 </h1>
-
 <div align="center">
     <img src="./Images/back-end-text-header.svg" alt="" />
 </div>
-
 <div align="center">
-    <h2>Not thing to show! 😁😁😁</h2>
+    Not thing to show!
 </div>
-
 <h1 align="left">
     
 </h1>
-
 <div align="center">
     <img src="./Images/github-star-text-header.svg" alt="" />
 </div>
 
-<div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=hiehieuhieu001)](https://github.com/hiehieuhieu001/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hieuhieuhieu001)](https://github.com/hieuhieuhieu001/github-profile-trophy)
 
 <h1 align="left">
     
