@@ -52,15 +52,15 @@
 
 
 <div align="center">
-  <a href="https://github.com/hieuhieuhieu001/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hieuhieuhieu001&row=2&column=3&theme=onedark" alt="trophy">
+  <a href="https://github.com/hieu9721/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hieu9721&row=2&column=3&theme=onedark" alt="trophy">
   </a>
 </div>
 <h3 align="left">
     
 </h3>
 <div align="center">
-  <a href="(https://github.com/hieuhieuhieu001/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuhieuhieu001&layout=donut&theme=radical" alt="github-readme-stats">
+  <a href="(https://github.com/hieu9721/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu9721&layout=donut&theme=radical" alt="github-readme-stats">
   </a>
 </div>
